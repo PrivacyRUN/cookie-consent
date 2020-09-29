@@ -7,3 +7,4 @@ chromedriver.log
 debug.log
 selenium-server.log
 geckodriver.log
+cookieconsent.js

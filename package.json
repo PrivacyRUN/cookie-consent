@@ -2,7 +2,10 @@
 	"name": "privacyrun.cookie-consent",
 	"version": "0.1.0",
 	"description": "Easy to Install Cookie Banner.",
-	"main": "app.ts",
+	"main": "cookieconsent.js",
+	"files": [
+		"cookieconsent.js"
+	],
 	"scripts": {
 		"start": "webpack --watch",
 		"build": "webpack",
@@ -13,8 +16,15 @@
 		"e2e:firefox": "nightwatch --env firefox",
 		"lint": "tslint --project tsconfig.json"
 	},
-	"author": "psfinteco.pl",
+	"author": "PrivacyRUN",
 	"license": "MIT",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/PrivacyRUN/cookie-consent.git"
+	},
+	"publishConfig": {
+		"registry": "https://registry.npmjs.org/"
+	},
 	"devDependencies": {
 		"@types/jasmine": "^3.5.14",
 		"chromedriver": "^85.0.0",

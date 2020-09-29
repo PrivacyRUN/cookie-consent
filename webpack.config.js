@@ -8,7 +8,7 @@ module.exports = {
 	mode: 'production',
 	//mode: 'development',
 	output: {
-		path: path.resolve(__dirname, 'build'),
+		path: path.resolve(__dirname),
 		filename: 'cookieconsent.js'
 	},
 	resolve: {
