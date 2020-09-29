@@ -1,0 +1,9 @@
+node_modules/
+build/
+coverage/
+.vs/
+tests_output/
+chromedriver.log
+debug.log
+selenium-server.log
+geckodriver.log

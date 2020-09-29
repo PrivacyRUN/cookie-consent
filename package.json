@@ -1,0 +1,37 @@
+{
+	"name": "privacyrun.cookie-consent",
+	"version": "0.1.0",
+	"description": "Easy to Install Cookie Banner.",
+	"main": "app.ts",
+	"scripts": {
+		"start": "webpack --watch",
+		"build": "webpack",
+		"test": "karma start",
+		"test:single": "karma start --single-run",
+		"e2e": "nightwatch --env chrome,firefox",
+		"e2e:chrome": "nightwatch --env chrome",
+		"e2e:firefox": "nightwatch --env firefox",
+		"lint": "tslint --project tsconfig.json"
+	},
+	"author": "psfinteco.pl",
+	"license": "MIT",
+	"devDependencies": {
+		"@types/jasmine": "^3.5.14",
+		"chromedriver": "^85.0.0",
+		"geckodriver": "^1.20.0",
+		"jasmine-core": "^3.6.0",
+		"karma": "^5.1.1",
+		"karma-chrome-launcher": "^3.1.0",
+		"karma-jasmine": "^4.0.1",
+		"karma-spec-reporter": "0.0.32",
+		"karma-typescript": "^5.1.0",
+		"nightwatch": "^1.4.1",
+		"selenium-server": "^3.141.59",
+		"ts-loader": "^6.0.4",
+		"ts-node": "^9.0.0",
+		"tslint": "~5.15.0",
+		"typescript": "^3.5.3",
+		"webpack": "^4.44.1",
+		"webpack-cli": "^3.3.12"
+	}
+}
