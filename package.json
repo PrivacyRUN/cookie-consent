@@ -7,7 +7,7 @@
 		"start": "webpack --watch",
 		"build": "webpack",
 		"test": "karma start",
-		"test:single": "karma start --single-run",
+		"test:single": "karma start --single-run --browsers=ChromeHeadless",
 		"e2e": "nightwatch --env chrome,firefox",
 		"e2e:chrome": "nightwatch --env chrome",
 		"e2e:firefox": "nightwatch --env firefox",
