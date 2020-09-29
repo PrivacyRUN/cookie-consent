@@ -20,7 +20,13 @@ module.exports = function(config) {
 			require('karma-spec-reporter')
 		],
 		reporters: [ 'progress', 'karma-typescript' ],
-		browsers: ['Chrome'],
-		autoWatch: true
+		browsers: [ 'Chrome' ],
+		autoWatch: true,
+		karmaTypescriptConfig: {
+			"reports": {
+				"html": "coverage",
+				"lcovonly": "coverage"
+			}
+		}
 	})
 }
