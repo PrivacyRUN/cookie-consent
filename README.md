@@ -24,7 +24,7 @@ var _cookieConsent = {
    ]
 };
 </script>
-<script src="cookieconsent.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/privacyrun.cookie-consent@0.1.0/cookieconsent.js"></script>
 ...
 ```
 
