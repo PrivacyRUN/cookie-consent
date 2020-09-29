@@ -1,10 +1,10 @@
 ![Cookie Consent](cookie-consent.png)
 
-# Cookie Consent
+# Privacy RUN - Cookie Consent
 
 [![Build Status](https://travis-ci.org/PrivacyRUN/cookie-consent.svg?branch=master)](https://travis-ci.org/PrivacyRUN/cookie-consent) [![Coverage Status](https://coveralls.io/repos/github/PrivacyRUN/cookie-consent/badge.svg?branch=master)](https://coveralls.io/github/PrivacyRUN/cookie-consent?branch=master)
 
-Easy to install and configure cookie consent banner. Cookie Consent can block scripts and iframes. It uses for that two methods, you can read about this [here](https://medium.com/snips-ai/how-to-block-third-party-scripts-with-a-few-lines-of-javascript-f0b08b9c4c0).
+[Privacy RUN](https://www.privacyrun.com/) (Ready to Use Now). Easy to install and configure cookie consent banner. Cookie Consent can block scripts and iframes. It uses for that two methods, you can read about this [here](https://medium.com/snips-ai/how-to-block-third-party-scripts-with-a-few-lines-of-javascript-f0b08b9c4c0).
 
 This project works in modern browsers (Firefox, Chrome, Edge...) and Internet Explorer 11 ([important](#internet-explorer-11)).
 
