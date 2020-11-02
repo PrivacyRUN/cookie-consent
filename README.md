@@ -1,5 +1,5 @@
 <p align="center">
-	![Privacy RUN](privacy-run.png)
+	<a href="https://www.privacyrun.com/"><img src="privacy-run.png" alt="Privacy RUN" /></a>
 </p>
 
 # Privacy RUN - Cookie Consent
