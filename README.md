@@ -1,4 +1,4 @@
-<p align="center">
+<p align="center" style="margin-top: 35px; margin-bottom: 35px;">
 	<a href="https://www.privacyrun.com/"><img src="privacy-run.png" alt="Privacy RUN" /></a>
 </p>
 
