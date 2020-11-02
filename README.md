@@ -1,4 +1,6 @@
-![Cookie Consent](cookie-consent.png)
+<p align="center">
+	![Privacy RUN](privacy-run.png)
+</p>
 
 # Privacy RUN - Cookie Consent
 
@@ -7,6 +9,8 @@
 [Privacy RUN](https://www.privacyrun.com/) (Ready to Use Now). Easy to install and configure cookie consent banner. Cookie Consent can block scripts and iframes. It uses for that two methods, you can read about this [here](https://medium.com/snips-ai/how-to-block-third-party-scripts-with-a-few-lines-of-javascript-f0b08b9c4c0).
 
 This project works in modern browsers (Firefox, Chrome, Edge...) and Internet Explorer 11 ([important](#internet-explorer-11)).
+
+![Cookie Consent](cookie-consent.png)
 
 ### How to Install?
 
