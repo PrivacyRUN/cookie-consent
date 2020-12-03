@@ -2,6 +2,10 @@
 	<a href="https://www.privacyrun.com/"><img src="privacy-run.png" alt="Privacy RUN" /></a>
 </p>
 
+<p align="center">
+	<a href="mailto:contact@makeitright.ai">contact@makeitright.ai</a>
+</p>
+
 # Privacy RUN - Cookie Consent
 
 [![Build Status](https://travis-ci.org/PrivacyRUN/cookie-consent.svg?branch=master)](https://travis-ci.org/PrivacyRUN/cookie-consent) [![License: MIT](https://img.shields.io/badge/license-MIT-brightgreen.svg)](/LICENSE) [![Coverage Status](https://coveralls.io/repos/github/PrivacyRUN/cookie-consent/badge.svg?branch=master)](https://coveralls.io/github/PrivacyRUN/cookie-consent?branch=master)
